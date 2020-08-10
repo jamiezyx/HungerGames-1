@@ -1,2 +1,2 @@
 # HungerGames
-HungerGamesPlugin is PocketMine Simple Plugin!
+A simple HungerGames plugin for Minecraft Bedrock Edition servers.
